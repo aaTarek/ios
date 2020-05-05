@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Meteo_P6/Pods-Meteo_P6-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/SwiftyPlistManager/SwiftyPlistManager.framework

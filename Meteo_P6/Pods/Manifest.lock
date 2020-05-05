@@ -1,0 +1,26 @@
+PODS:
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SwiftyJSON (5.0.0)
+  - SwiftyPlistManager (1.0.2)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - SwiftyJSON
+  - SwiftyPlistManager
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - SwiftyJSON
+    - SwiftyPlistManager
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyPlistManager: 5895924cccb7fe28deccbe14890e8aed78ae78ae
+
+PODFILE CHECKSUM: 407b632c203c3650050076030f90bc8f9a578f94
+
+COCOAPODS: 1.9.0
